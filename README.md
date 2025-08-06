@@ -21,3 +21,5 @@
 
 ## github 사용 방법
 [스터디 GitHub 사용 방법](https://velog.io/@mandarin913/%EC%8A%A4%ED%84%B0%EB%94%94-GitHub-%EC%82%AC%EC%9A%A9-%EB%B0%A9%EB%B2%95)
+
+위 링크에서 첫번째 방법 사용.
